@@ -366,6 +366,7 @@ markers:
   - {type: line-break, offset: 1338, content: '', id: KR2g0052_WYG_054-5a05}
   - {type: substitution, offset: 1344, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 1358, content: (, id: KR2g0052_krp_054-bkkpn1}
+  - {type: voice, offset: 1358, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 1359, content: /, id: KR2g0052_krp_054-bkkpn2}
   - {type: punctuation, offset: 1360, content: ), id: KR2g0052_krp_054-bkkpn3}
   - {type: 'kr:newline', offset: 1360, content: '
@@ -424,6 +425,7 @@ markers:
       ', id: KR2g0052_krp_054-bkkkrnewl87}
   - {type: line-break, offset: 1521, content: '', id: KR2g0052_WYG_054-5b07}
   - {type: punctuation, offset: 1541, content: (, id: KR2g0052_krp_054-bkkpn10}
+  - {type: voice, offset: 1541, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1542, content: /, id: KR2g0052_krp_054-bkkpn11}
   - {type: punctuation, offset: 1543, content: ), id: KR2g0052_krp_054-bkkpn12}
   - {type: 'kr:newline', offset: 1543, content: '
@@ -615,6 +617,7 @@ markers:
   - {type: line-break, offset: 2181, content: '', id: KR2g0052_WYG_054-7b07}
   - {type: substitution, offset: 2184, original: 䕃, replacement: 蔭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4707}}
   - {type: punctuation, offset: 2195, content: (, id: KR2g0052_krp_054-bkkpn13}
+  - {type: voice, offset: 2195, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 2199, content: /, id: KR2g0052_krp_054-bkkpn14}
   - {type: punctuation, offset: 2203, content: ), id: KR2g0052_krp_054-bkkpn15}
   - {type: indent, offset: 2203, content: 　, id: KR2g0052_krp_054-bkkind14}
@@ -630,4 +633,4 @@ markers:
 
       ', id: KR2g0052_krp_054-bkkkrnewl125}
   back: []
-hash: sha256:e50b15c11fd0f629bfaa776b529cd4eb2faa1d30839db4257cf2eed9324c71ae
+hash: sha256:b341c32271e43122db8c41db498bc8178197f452e2cfecb4748454f5d196af96
